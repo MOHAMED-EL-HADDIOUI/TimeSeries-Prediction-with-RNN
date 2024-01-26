@@ -17,6 +17,8 @@ Ce projet vise à démontrer la prédiction de la consommation d'électricité e
    - `matplotlib`
    - `scikit-learn`
    - `tensorflow`
+4. **Résultats:**
+![Uploading e9c6f9cc-5944-4d34-b8b8-c2632c67d972.png…]()
 
 ## Comment Utiliser le Projet
 
