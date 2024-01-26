@@ -5,8 +5,7 @@ Ce projet vise à démontrer la prédiction de la consommation d'électricité e
 ## Contenu du Projet
 
 1. **Notebooks:**
-   - `Exploration_Donnees.ipynb`: Un notebook exploratoire pour comprendre et visualiser les données.
-   - `RNN_Prediction.ipynb`: Implémentation du modèle RNN, entraînement, évaluation et visualisation des prédictions.
+   - `git add Time_Series_Prediction_RNN.ipynb`: Implémentation du modèle RNN, entraînement, évaluation et visualisation des prédictions.
 
 2. **Données:**
    - Le fichier CSV `electricity-consumption-in-france-2019-2022.csv` contenant les données de consommation d'électricité.
