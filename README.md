@@ -23,18 +23,6 @@ Ce projet vise à démontrer la prédiction de la consommation d'électricité e
 1. Clonez le référentiel dans votre environnement local.
 
     ```bash
-    git clone https://github.com/VotreNom/VotreProjet.git
+    git clone https://github.com/MOHAMED-EL-HADDIOUI/TimeSeries-Prediction-with-RNN.git
     ```
-
-2. Installez les dépendances nécessaires.
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Exécutez les notebooks dans l'ordre mentionné ci-dessus.
-
-4. Explorez, modifiez et expérimentez avec le code selon vos besoins.
-
-## Structure du Projet
 
