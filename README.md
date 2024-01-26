@@ -18,7 +18,7 @@ Ce projet vise à démontrer la prédiction de la consommation d'électricité e
    - `scikit-learn`
    - `tensorflow`
 4. **Résultats:**
-![Uploading e9c6f9cc-5944-4d34-b8b8-c2632c67d972.png…]()
+![ad59022f-ef85-4021-a09f-3e2e8a45b893](https://github.com/MOHAMED-EL-HADDIOUI/TimeSeries-Prediction-with-RNN/assets/80369317/b0c1c516-855f-4701-af3f-2f9d05fcbb4f)
 
 ## Comment Utiliser le Projet
 
